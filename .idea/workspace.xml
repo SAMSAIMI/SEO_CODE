@@ -4,15 +4,6 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6af0e803-2a59-46d7-88a3-bfa33c674543" name="Changes" comment="Initial Project Directory">
-      <change afterPath="$PROJECT_DIR$/backend/apis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/core/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/core/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/core/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/core/mongo_database.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/core/security.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/backend/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +36,6 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2uM8jPxBKKm7W1RBKvflf7BRZtB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -80,23 +68,6 @@
       <option name="presentableId" value="Default" />
       <updated>1742047216539</updated>
     </task>
-    <task id="LOCAL-00001" summary="Initial Project Directory">
-      <option name="closed" value="true" />
-      <created>1742050441889</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1742050441889</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Initial Project Directory">
-      <option name="closed" value="true" />
-      <created>1742050531571</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1742050531571</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,9 +80,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Project Directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Project Directory" />
   </component>
 </project>
